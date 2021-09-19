@@ -1,3 +1,4 @@
+console.log('okay');
 function twoDimensArr(columnAmount, rowAmount, columnStart, rowStart, direction = 'left') {
 
   const totalCellAmount = columnAmount * rowAmount;
